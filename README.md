@@ -4,7 +4,7 @@
 
 ### Full Stack Developer • Backend Engineer • Building software for real businesses
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&pause=1000&center=true&vCenter=true&width=700&color=00BFFF&lines=Full+Stack+Developer;Python+%7C+Flask+%7C+React+%7C+Node.js;Building+Inventory+%26+Billing+Software;Creating+Practical+Business+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%7C+Flask+%7C+React+%7C+Node.js;Building+Inventory+%26+Billing+Software;Creating+Practical+Business+Solutions" />
 
 </div>
 
@@ -12,18 +12,18 @@
 
 ## 🚀 About Me
 
-I’m a full stack developer passionate about building practical software that solves real business problems.
+I'm a full stack developer passionate about building practical software that solves real-world business problems.
 
-My work focuses mainly on:
+### I work on:
 
-* 🛒 E-commerce platforms
+* 🛒 E-commerce applications
 * 📦 Inventory management systems
 * 🧾 Billing & POS software
-* 🔐 Authentication & authorization systems
+* 🔐 Authentication & authorization
 * 📊 Admin dashboards & analytics
-* ⚡ REST APIs & backend architecture
+* ⚡ REST APIs & backend systems
 
-I enjoy building applications that are fast, reliable, scalable, and easy to use.
+I enjoy building software that is fast, reliable, scalable, and easy to use.
 
 ---
 
@@ -39,64 +39,41 @@ I enjoy building applications that are fast, reliable, scalable, and easy to use
 
 ## 📌 Featured Projects
 
-### 🛒 E-commerce Website
-
-Modern e-commerce web application with:
+### 🛒 E-commerce Platform
 
 * Product browsing
 * Category filtering
 * Search
 * Cart functionality
 * Checkout flow
-* Admin order management
-
----
+* Order management
 
 ### 📦 Inventory Management System
-
-Complete backend & frontend inventory platform with:
 
 * Product CRUD
 * Category & brand management
 * Stock tracking
 * Product image upload
 * JWT authentication
-* Swagger API documentation
+* Swagger documentation
 * Dashboard analytics
 
----
-
 ### 🧾 POS Billing Software
-
-Business billing solution with:
 
 * Billing workflow
 * Customer management
 * Supplier reports
-* Stock handling
-* Cloud + offline architecture
+* Stock management
+* Online + offline support
 
 ---
 
-## 📈 GitHub Stats
+## 🌱 Currently Exploring
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sarjunsafeen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarjunsafeen&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sarjunsafeen&theme=tokyonight&hide_border=true"/>
-
-</div>
+* Scalable backend architecture
+* Database optimization
+* API performance
+* AI integration in business software
 
 ---
 
@@ -105,7 +82,7 @@ Business billing solution with:
 <div align="center">
 
 <a href="https://github.com/Sarjunsafeen">
-<img src="https://img.shields.io/badge/GitHub-Sarjunsafeen-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-@Sarjunsafeen-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -114,7 +91,7 @@ Business billing solution with:
 
 <div align="center">
 
-### 💬 Build software that solves real-world problems.
+### 💬 Build software that solves real-world problems
 
 ⭐ Thanks for visiting my profile
 
