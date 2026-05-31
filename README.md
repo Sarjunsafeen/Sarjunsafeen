@@ -1,5 +1,3 @@
-## Hi, I'm Mohaamed sarjun ✨
-
 <div align="center">
 
 # Hey 👋 I'm Sarjun Safeen
