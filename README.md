@@ -4,7 +4,7 @@
 
 ### Full Stack Developer • Backend Engineer • Building software for real businesses
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Flask+%7C+React+%7C+Node.js;Building+Inventory+%26+Billing+Software;Creating+Practical+Business+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&pause=1000&center=true&vCenter=true&width=700&color=00BFFF&lines=Full+Stack+Developer;Python+%7C+Flask+%7C+React+%7C+Node.js;Building+Inventory+%26+Billing+Software;Creating+Practical+Business+Solutions" />
 
 </div>
 
@@ -12,18 +12,18 @@
 
 ## 🚀 About Me
 
-I’m a full stack developer focused on building practical applications for businesses.
+I’m a full stack developer passionate about building practical software that solves real business problems.
 
-Most of my work is around:
+My work focuses mainly on:
 
 * 🛒 E-commerce platforms
 * 📦 Inventory management systems
-* 🧾 Billing / POS software
-* 🔐 Authentication systems
+* 🧾 Billing & POS software
+* 🔐 Authentication & authorization systems
 * 📊 Admin dashboards & analytics
-* ⚡ Fast REST APIs
+* ⚡ REST APIs & backend architecture
 
-I enjoy designing software that is reliable, scalable, and simple to use in day-to-day business operations.
+I enjoy building applications that are fast, reliable, scalable, and easy to use.
 
 ---
 
@@ -31,7 +31,7 @@ I enjoy designing software that is reliable, scalable, and simple to use in day-
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,nodejs,react,html,css,bootstrap,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,flask,nodejs,react,html,css,bootstrap,mysql,mariadb,git,github,vscode" />
 
 </div>
 
@@ -39,17 +39,42 @@ I enjoy designing software that is reliable, scalable, and simple to use in day-
 
 ## 📌 Featured Projects
 
-### 🛒 E-commerce Platform
+### 🛒 E-commerce Website
 
-Modern e-commerce web application with product listing, category filtering, search, cart functionality, checkout flow, and admin management.
+Modern e-commerce web application with:
+
+* Product browsing
+* Category filtering
+* Search
+* Cart functionality
+* Checkout flow
+* Admin order management
+
+---
 
 ### 📦 Inventory Management System
 
-REST API with product management, categories, brands, stock tracking, image upload, JWT authentication, and Swagger documentation.
+Complete backend & frontend inventory platform with:
+
+* Product CRUD
+* Category & brand management
+* Stock tracking
+* Product image upload
+* JWT authentication
+* Swagger API documentation
+* Dashboard analytics
+
+---
 
 ### 🧾 POS Billing Software
 
-Desktop/web billing software with billing flow, customer handling, stock management, supplier reports, and cloud + offline support.
+Business billing solution with:
+
+* Billing workflow
+* Customer management
+* Supplier reports
+* Stock handling
+* Cloud + offline architecture
 
 ---
 
@@ -57,9 +82,9 @@ Desktop/web billing software with billing flow, customer handling, stock managem
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohamed Sarjun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sarjunsafeen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed Sarjun&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarjunsafeen&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -80,7 +105,7 @@ Desktop/web billing software with billing flow, customer handling, stock managem
 <div align="center">
 
 <a href="https://github.com/Sarjunsafeen">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Sarjunsafeen-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -89,7 +114,7 @@ Desktop/web billing software with billing flow, customer handling, stock managem
 
 <div align="center">
 
-### 💬 Building software that solves real-world problems.
+### 💬 Build software that solves real-world problems.
 
 ⭐ Thanks for visiting my profile
 
