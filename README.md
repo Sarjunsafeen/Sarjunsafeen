@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a full stack developer passionate about building practical software that solves real-world business problems.
 
@@ -37,9 +37,9 @@ I enjoy building software that is fast, reliable, scalable, and easy to use.
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🛒 E-commerce Platform
+### E-commerce Platform
 
 * Product browsing
 * Category filtering
@@ -48,7 +48,7 @@ I enjoy building software that is fast, reliable, scalable, and easy to use.
 * Checkout flow
 * Order management
 
-### 📦 Inventory Management System
+### Inventory Management System
 
 * Product CRUD
 * Category & brand management
@@ -58,7 +58,7 @@ I enjoy building software that is fast, reliable, scalable, and easy to use.
 * Swagger documentation
 * Dashboard analytics
 
-### 🧾 POS Billing Software
+### POS Billing Software
 
 * Billing workflow
 * Customer management
@@ -68,7 +68,7 @@ I enjoy building software that is fast, reliable, scalable, and easy to use.
 
 ---
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 * Scalable backend architecture
 * Database optimization
@@ -77,7 +77,7 @@ I enjoy building software that is fast, reliable, scalable, and easy to use.
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
