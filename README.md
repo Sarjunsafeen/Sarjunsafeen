@@ -27,7 +27,7 @@ I enjoy building software that is fast, reliable, scalable, and easy to use.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
