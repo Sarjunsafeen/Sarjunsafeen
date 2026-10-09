@@ -31,7 +31,7 @@ I enjoy building software that is fast, reliable, scalable, and easy to use.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,nodejs,react,html,css,bootstrap,mysql,mariadb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,flask,nodejs,react,html,css,bootstrap,mysql,git,github,vscode" />
 
 </div>
 
